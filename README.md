@@ -7,4 +7,4 @@
  - VGA : TFT LCD Color Monitor
  - 摄像头 : OV2640 Camera Module
  - 蓝牙 : HC-06 Bluetooth Module
-`可以的话给我个star~十分感谢~`
+### 可以的话给我个star~ 十分感谢~
